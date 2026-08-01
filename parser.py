@@ -17,7 +17,6 @@ def read_pdf(file_path):        # Read text from a PDF file
 def read_docx(file_path):       # Read text from a DOCX file
 
     doc = Document(file_path)
-
     text = ""
 
     for paragraph in doc.paragraphs:
@@ -36,12 +35,9 @@ def parse_resume(file_path):    # Determine the file type and read the resume co
 
     if extension == ".pdf":
         return read_pdf(file_path)
-
     elif extension == ".docx":
         return read_docx(file_path)
-
     elif extension == ".txt":
         return read_txt(file_path)
-
     else:
         raise ValueError("Unsupported file format")

@@ -1,0 +1,15 @@
+Python Developer
+
+Requirements:
+- Python
+- SQL
+- Machine Learning
+- FastAPI
+- Git
+
+Preferred:
+- Docker
+- AWS
+
+Education:
+Bachelor's or Master's degree in Computer Science or related field.
