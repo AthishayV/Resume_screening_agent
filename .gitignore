@@ -3,6 +3,4 @@
 /resume_agent
 .env
 
-/resumes
 /__pycache__
-/output
