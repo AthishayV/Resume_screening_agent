@@ -1,111 +1,117 @@
 Resume,Similarity Score,Analysis
 Athishay_resume.pdf,36.91999816894531,"**1. Candidate Summary**  
-A recent Master of Computer Applications (MCA) graduate with solid academic performance (CGPA 8.5) and foundational knowledge in Python, SQL, and Machine Learning. Experience is limited to academic projects and research assistance; no professional software‑development work demonstrated.  
+A recent Master of Computer Applications graduate with solid academic grounding in AI/ML, Python programming, and SQL. Has limited hands‑on professional development experience (mostly academic projects and research assistance). Demonstrates good communication skills and a willingness to learn new technologies.
 
 **2. Extracted Skills**  
-- Programming: Python, C, C++  
-- Databases: SQL, Database concepts  
-- AI/ML: Artificial Intelligence, Machine Learning, Digital Image Processing  
-- Software development: OOP, Web & software development, Cloud Computing, Cybersecurity  
-- Soft skills: Communication, teamwork, presentation  
-- Tools/Platforms mentioned: Oracle Cloud Infrastructure (OCI) (certification)  
+- Python (listed)  
+- C, C++  
+- Object‑Oriented Programming (OOP)  
+- Web & software development (general)  
+- SQL / Database concepts  
+- Artificial Intelligence & Machine Learning  
+- Cloud Computing (no specific provider mentioned)  
+- Cybersecurity  
+- Communication, teamwork, presentation  
 
 **3. Experience Summary**  
-- **Student (University of Mysore, 12/2025 – 7/2026)** – Assisted faculty with research data collection, participated in group discussions, organized study groups, and attended workshops.  
-- No professional development or production‑level code experience listed.  
+- **Student – University of Mysore (Dec 2025 – Jul 2026)** – Assisted faculty with research, data collection, and academic group work. No concrete software‑development or production‑level projects.  
+- **Certifications** – Oracle Cloud Infrastructure foundation, TCS ION Career Edge, EA software‑engineering simulation (all short‑term).  
+- **Project** – 2‑D zombie‑shooter game built with Godot (focus on game logic, not back‑end services).
 
 **4. Education**  
-- **MCA**, University of Mysore (expected Jul 2026) – CGPA 8.5  
-- **BCA**, Govt. First Grade College, Kadur (Sep 2024) – CGPA 8.83  
+- **MCA (Master of Computer Applications)** – University of Mysore, expected Jul 2026, CGPA 8.5.  
+- **BCA (Bachelor of Computer Applications)** – Govt. First Grade College, Kadur, CGPA 8.83.
 
 **5. Matching Skills (present in both JD & resume)**  
 - Python  
 - SQL  
 - Machine Learning / AI  
 
-**6. Missing Skills (required by JD but not found in resume)**  
-- FastAPI (required)  
-- Git (required)  
-- Docker (preferred)  
-- AWS (preferred)  
+**6. Missing Skills (required by JD but not evident in resume)**  
+- FastAPI (no mention)  
+- Git (no explicit mention)  
+- Docker (not listed)  
+- AWS (cloud experience generic; no specific AWS services cited)  
 
 **7. Recommendation**  
-**Reject** (do not shortlist for this Python Developer role)
-
-**8. Reason**  
-The candidate meets the educational requirement and possesses core Python, SQL, and ML knowledge, but lacks all of the *required* technical competencies that differentiate the role—specifically FastAPI and Git. Additionally, there is no evidence of experience with Docker or AWS, which are preferred. The résumé reflects academic‑only experience with no production‑grade backend or API development, making the candidate unsuitable for the position as defined."
-newy.docx,23.280000686645508,"**1. Candidate Summary**  
-Recent Master of Computer Applications (MCA) graduate with solid academic performance (CGPA 8.5). Has hands‑on experience building AI/ML solutions and a small‑scale software project. Proficient in Python, SQL, Git and core machine‑learning concepts. Looking to transition into a production‑grade Python development role.
-
-**2. Extracted Skills**  
-- **Programming:** Python, C++, Java, GDScript, OOP  
-- **Data/Databases:** SQL, DBMS  
-- **Machine Learning / AI:** CNN, YOLOv8, U‑Net, general AI/ML concepts  
-- **Software Development:** Git, Streamlit, Godot Engine, software engineering fundamentals  
-- **Cloud / DevOps (mentioned):** Cloud computing (Oracle Cloud)  
-- **Soft Skills:** Presentation, communication, teamwork, time‑management  
-- **Languages:** English (C1), Kannada (C1), Hindi (B2)
-
-**3. Experience Summary**  
-- **Academic Project – Signature Extraction:** Designed and implemented a deep‑learning pipeline (CNN, YOLOv8, U‑Net) for detection and segmentation; delivered a Streamlit UI for end‑to‑end usage.  
-- **Academic Project – 2D Zombie Shooter Game:** Developed gameplay mechanics in Godot (GDScript) and performed performance optimisation.  
-- **Certifications:** Oracle Cloud Infrastructure Foundation Associate, TCS ION Career Edge, EA Software Engineering Job Simulation – demonstrate exposure to cloud concepts and industry‑standard practices.
-
-**4. Education**  
-- **MCA (Master of Computer Applications)** – University of Mysore, expected Jul 2026, CGPA 8.5  
-- **BCA (Bachelor of Computer Applications)** – Government First Grade College, Kadur, Sep 2024, CGPA 8.83  
-
-**5. Matching Skills (present in both JD & resume)**  
-- Python  
-- SQL  
-- Machine Learning (AI & ML)  
-- Git  
-
-**6. Missing Skills (required or preferred by JD but not evident in resume)**  
-- **FastAPI** – no mention of API framework experience.  
-- **Docker** – not listed.  
-- **AWS** – cloud experience limited to Oracle Cloud, no AWS exposure.  
-
-**7. Recommendation**  
-**Consider (shortlist for an entry‑level/ junior Python developer role).**
+**Reject / Do not shortlist** (or “Consider only if the role is entry‑level and can accommodate training on the missing stack”).
 
 **8. Reason for Recommendation**  
-The candidate satisfies all **mandatory** technical requirements (Python, SQL, ML, Git) and holds a relevant degree. The primary gaps are the lack of FastAPI experience and familiarity with Docker/AWS, which are **preferred** rather than mandatory. For a junior position, these can be learned on the job, and the candidate’s demonstrated ability to build end‑to‑end ML applications (Streamlit) suggests they can quickly pick up API development and containerisation. If the role is strictly production‑focused and requires immediate expertise in FastAPI/Docker/AWS, the candidate would be a weaker fit; otherwise, they merit further interview consideration."
-Athishay-kumar-v-resume.pdf,21.6299991607666,"**1. Candidate Summary**  
-Enthusiastic MCA graduate with solid academic performance (CGPA 8.5) and hands‑on experience building AI/ML prototypes and a small game project. Familiar with Python, SQL, Git, and general cloud concepts, but no demonstrated production‑grade backend development (FastAPI, Docker, AWS).
+While the candidate meets the educational requirement and possesses core Python, SQL, and ML knowledge, the role explicitly calls for experience with FastAPI, Git, and preferably Docker/AWS—key components for building and deploying production‑grade Python services. The resume shows only academic exposure and lacks demonstrable work on modern web frameworks, version control, containerisation, or cloud platforms. Given the low similarity score (≈ 37) and the gap in essential technical skills, the candidate is not a strong fit for this position at the current time."
+resume_sample_studen.pdf,11.020000457763672,"**1. Candidate Summary**  
+Hayden Smith is a Year 11 secondary school student with volunteer/customer‑service experience in a sports club canteen and newspaper delivery. The resume focuses on soft skills (communication, teamwork, numeracy) and sports‑related leadership roles. No evidence of programming, data handling, or related technical experience.
 
 **2. Extracted Skills**  
-- **Programming:** Python, C++, Java, GDScript (Godot)  
-- **Databases:** SQL, DBMS  
-- **Machine Learning/AI:** CNN, YOLOv8n, U‑Net, general AI/ML concepts  
-- **Web/App Development:** Streamlit, basic cloud computing (Oracle Cloud)  
-- **Version Control:** Git  
-- **Other:** OOP, software development fundamentals, presentation & teamwork  
+- Customer service  
+- Cash handling / numeracy  
+- Communication  
+- Teamwork  
+- Organisation & time‑management  
+- Problem‑solving (umpiring, coaching)  
+- Leadership (umpire, assistant coach)  
+- Sports knowledge & enthusiasm  
 
 **3. Experience Summary**  
-- **Academic Projects:**  
-  *Hybrid Detection & Segmentation Framework* – deep‑learning pipeline (CNN, YOLOv8n, U‑Net) with a Streamlit front‑end for signature extraction.  
-  *Endurance 2D Zombie Shooter* – game built in Godot, GDScript, performance‑optimized.  
-- **Certifications:** Oracle Cloud Infrastructure Associate, TCS ION Career Edge, EA Software Engineering Simulation.  
-- No professional employment or internships listed.
+- **Park Hill Soccer Club Canteen (Dec 2016 – Mar 2017)** – Volunteer customer service, cash register operation.  
+- **Argo Newsagency (Jun 2016 – Feb 2017)** – Newspaper delivery.  
+- Ongoing roles as soccer umpire and assistant coach (leadership/organisational responsibilities).  
 
 **4. Education**  
-- **MCA (Master of Computer Applications)** – University of Mysore, expected Jul 2026, CGPA 8.5  
-- **BCA (Bachelor of Computer Applications)** – Government First Grade College, Kadur, 2024, CGPA 8.83  
+- Currently Year 11 at Park Hill Secondary College (subjects: Mathematics, English, Business Management, VET Sport & Recreation). No post‑secondary degree.
 
-**5. Matching Skills (JD ↔ Resume)**  
-- Python ✔  
-- SQL ✔  
-- Machine Learning ✔  
-- Git ✔  
+**5. Matching Skills (present in both JD & resume)**  
+- None. The job requires Python, SQL, Machine Learning, FastAPI, Git, Docker, AWS – none are mentioned.
 
-**6. Missing Skills (required or preferred but not evident on resume)**  
-- **FastAPI** – no mention of this framework.  
-- **Docker** – not listed.  
-- **AWS** – only generic cloud computing; no AWS experience.  
+**6. Missing Skills (required by JD but not on resume)**  
+- **Technical:** Python, SQL, Machine Learning, FastAPI, Git, Docker, AWS.  
+- **Education:** Bachelor’s/Master’s degree in Computer Science or related field.  
 
 **7. Recommendation**  
-**Reject** (or “Do not shortlist” for this specific role).
+**Reject**  
 
 **8. Reason**  
-The candidate meets four of the five core technical requirements, but the missing **FastAPI** expertise is a critical gap for a Python backend developer role. Additionally, the preferred Docker and AWS skills are absent, and the experience is limited to academic projects without production‑grade API development or containerization. Given the low similarity score (≈22) and these gaps, the candidate is not a strong fit for the advertised position at this time."
+The candidate lacks all core technical competencies and the educational background required for a Python Developer role. The resume demonstrates only basic soft‑skill experience unrelated to software development, resulting in a very low similarity score (≈11%). Therefore, the candidate is not suitable for this position."
+Resume.pdf,6.590000152587891,"**1. Candidate Summary**  
+John Doe is a graduate in Graphic Design with over a decade of experience in retail sales, merchandising, and customer‑service roles. His career has been focused on visual merchandising, inventory handling, and sales performance rather than software development or data‑science work.
+
+**2. Extracted Skills**  
+- Visual/graphic design concepts  
+- Retail merchandising & display creation  
+- Inventory control & stock management  
+- Customer service & sales consulting  
+- Cash handling & point‑of‑sale operations  
+- Team training & leadership (informal)  
+- Event promotion & brand ambassadorship  
+
+**3. Experience Summary**  
+| Role | Company | Dates | Relevant duties |
+|------|----------|-------|-----------------|
+| Sales Associate | American Eagle | 07/2009 – present | Merchandising displays, inventory scanning |
+| Spa Consultant | Planet Beach | 08/2008 – present | Sales targets, procedural management |
+| Sales Associate | Heartbreaker | 05/2008 – 08/2008 | Stocking fast‑fashion inventory |
+| Fashion Representative | Victoria’s Secret | 01/2006 – 02/2009 | Training coworkers, seasonal inventory |
+| Brand Ambassador (Volunteer) | Target | 08/2009 | Event promotion |
+
+No experience with programming, databases, or cloud/DevOps tools is evident.
+
+**4. Education**  
+- **B.S. Graphic Design**, University of Minnesota, May 2011 (GPA 3.93).  
+No computer‑science or related technical degree.
+
+**5. Matching Skills** (present in both JD and resume)  
+- *None.* The resume does not list Python, SQL, Machine Learning, FastAPI, Git, Docker, or AWS.
+
+**6. Missing Skills** (required or preferred by the JD)  
+- Python programming  
+- SQL / relational databases  
+- Machine‑learning concepts & libraries  
+- FastAPI (web framework)  
+- Version control with Git  
+- Docker (containerization) – preferred  
+- AWS (cloud services) – preferred  
+
+**7. Recommendation**  
+**Reject**
+
+**8. Reason**  
+The candidate’s background is entirely unrelated to software development or data‑science. He lacks the core technical competencies (Python, SQL, ML, FastAPI, Git) and the preferred DevOps/cloud skills required for the Python Developer role, as well as the relevant educational foundation. Consequently, he does not meet the minimum qualifications for this position."
